@@ -2,3 +2,4 @@ This is info file
 This is the second day of the course
 This line added from login branch: Hello World
 I'm User 1
+I'm user 2
